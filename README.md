@@ -2,15 +2,15 @@
 
 ## Description
 
-This is a Website built using HTML5 and CSS.
+This is a Restaurant website built using HTML and CSS.
 
 ## Demo
 
-Link 👉 To be added.
+Link 👉 https://vigorous-beaver-01def2.netlify.app/
 
 ## Screenshot
 
-To be added.
+![Screenshot](https://user-images.githubusercontent.com/4997491/107180702-429b8f00-69ff-11eb-90bd-8659a29917fd.JPG)
 
 ## Installation
 
